@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-I'm currently part of the **ALX Frontend program**, learning modern web development to build beautiful, accessible, and meaningful digital experiences.
+A Frontend Developer dedicated to building beautiful, accessible, and meaningful digital experiences through modern web development.
 
 💬 Here's my mission:
 
