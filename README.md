@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Moriah Ogbenna</h1>
 
 <p align="center">
-  🌱 ALX Frontend Learner | 💡 Passionate about EdTech | 🎯 Building for Impact
+  🌱 Junior Frontend Developer | 💡 Passionate about EdTech | 🎯 Building for Impact
 </p>
 
 ---
